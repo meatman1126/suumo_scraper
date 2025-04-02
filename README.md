@@ -127,6 +127,3 @@ tail -f suumo_scraper.log
 - Google Sheets API の利用制限に注意してください
 - メール通知機能を使用する場合は、SMTP サーバーの設定を適切に行ってください
 
-## ライセンス
-
-MIT License
